@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-test-fs",
+  "version": "1.0.0",
+  "description": "Tests for homework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trio91/hexlet-test-fs.git"
+  },
+  "author": "D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trio91/hexlet-test-fs/issues"
+  },
+  "homepage": "https://github.com/trio91/hexlet-test-fs#readme"
+}
